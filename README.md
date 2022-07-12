@@ -14,7 +14,8 @@ To execute the project you must write :
 `./project aut/file.aut`
 
 For example : 
-`~/S1/projet-ipi$ ./projet aut/dyck.aut 
-File "aut/dyck.aut" correctly read. Please enter your inputs. 
-()()()(())
-Accepted.`
+`~/S1/projet-ipi$ ./projet aut/dyck.aut `
+
+`File "aut/dyck.aut" correctly read. Please enter your inputs. `
+`()()()(())`
+`Accepted.`
