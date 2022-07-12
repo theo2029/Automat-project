@@ -1,4 +1,4 @@
-# projet-ipi
+# automat
 
 This is a scholar project in imperative programming.
 
